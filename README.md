@@ -1,8 +1,8 @@
-# Learn Trail - Base SEA Hackathon Project
+# Learn Trail - MAHa- Telegram Mini App Hackathon Project
 
 ## Overview
 
-Learn Trail is an interactive learning platform built on the Base network for the Base SEA Hackathon. It combines blockchain technology with educational content to create an engaging and rewarding learning experience.
+Learn Trail is an interactive learning platform built in MAHa- Telegram Mini App Hackathon. It combines blockchain technology with educational content to create an engaging and rewarding learning experience.
 
 ## Features
 
@@ -48,7 +48,7 @@ TRAIL is an ERC20 token used for rewarding users who complete quizzes successful
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/learn-trail.git
+   git clone https://github.com/XK-Society/Learn-Trail-MAHa.git
    cd learn-trail
    ```
 
