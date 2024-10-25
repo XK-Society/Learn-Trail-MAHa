@@ -20,7 +20,7 @@ const RankListData = [
     {
         id: 4,
         number: '4',
-        profile: '../src/assets/learn-trail/profile/profile4.png',
+        profile: '../src/assets/learn-trail/profile/profile.png',
         exp: '100 XP',
     },
     {

@@ -151,16 +151,16 @@ contract HelloWorld {
         <div className="text-center p-4">
           <h1 className="text-2xl font-semibold">Module IDE</h1>
         </div>
-        <div className="px-8">
+        <div className="px-2">
           <Editor
-            height="400px"
+            height="350px"
             defaultLanguage="sol"
             defaultValue={code}
             onChange={setCode}
             theme="vs-dark"
             options={{
               minimap: { enabled: false },
-              fontSize: 14,
+              fontSize: 12,
             }}
           />
           <div className="button-group mt-4">
